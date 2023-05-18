@@ -17,6 +17,7 @@
   margin-top: 15px;
   font-size: 20px;
 }
+
 .big-card_description{
   margin-top: 20px;
 }
@@ -29,6 +30,7 @@
 
 .big-card_photo > img{
   width: 100%;
-  min-width: 400px;
+  min-width: 360px;
+  border-radius: 15px;
 
 }
