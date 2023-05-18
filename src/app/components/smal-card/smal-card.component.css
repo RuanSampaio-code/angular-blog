@@ -9,6 +9,9 @@
   display: flex;
   flex-direction: row;
 }
+.container_small-card-content > a{
+  display: flex;
+}
 
 .small-card_photo >img{
   width: 200px;
